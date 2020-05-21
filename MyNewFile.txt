@@ -1,0 +1,2 @@
+Value 1;Value 2;Value 3;MyText
+100;200;300;28
